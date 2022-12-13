@@ -69,11 +69,11 @@ Sledite navodilom v izbiri `ABOUT` (menijska vrstica na vrhu strani), *Author Gu
 
 ## Splošno okno z vlogami
 
-Po prijavi bodisi takoj pridemo na naslednjo bodisi lahko izberemo v menijski vrstici na zgornjem delu strani USER HOME.
+Po prijavi bodisi takoj pridemo na naslednjo stran bodisi jo lahko izberemo v menijski vrstici na zgornjem delu strani `USER DASHBOARD`.
 
-???
+![](slike/author-dashboard.png)
 
-V okviru publikacije Acta Chimica Slovenica ima vsak uporabnik določene vloge. Z izbiro vloge na strani USER HOME vstopimo v ustrezno vlogo. Uredniki imajo vloge Editor (glavni urednik) ali Section Editor, večina uporabnikov pa ima še vlogi Author in Reviewer. Izberemo vlogo, v kateri želimo trenutno delovati.
+V okviru publikacije Acta Chimica Slovenica ima vsak uporabnik določene vloge. Z izbiro vloge na strani `USER DASHBOARD` vstopimo v ustrezno vlogo. Uredniki imajo vloge *Editor* (glavni urednik) ali *Section Editor*, večina uporabnikov pa ima še vlogi *Author* in *Reviewer*. Izberemo vlogo, v kateri želimo trenutno delovati.
 
 ## Menjava gesla
 
@@ -95,9 +95,7 @@ Glavni urednik ima vlogo Editor. Sekcijski uredniki imajo vlogo Section Editor. 
 
 ![](slike/editor-dashboard-submissions.png)
 
-![](slike/editor-dashboard-issues.png)
-
-Odpre se stran EDITOR HOME. V zgornjem delu strani so seznami člankov v obdelavi glede na njihov status:
+Odpre se stran `EDITOR DASHBOARD`. V zgornjem delu strani so seznami člankov v obdelavi glede na njihov status:
     • Unassigned - pravkar oddani, glavni urednik jih mora pregledati in bodisi zavrniti ali predati urednikom sekcij
     • In Review - pri urednikih sekcij ter morda v recenziji
     • In Editing - sprejeti članki, obdeluje jih tehnični urednik
@@ -107,13 +105,15 @@ V spodnjem delu so izbire za objavo, s katerimi bo operiral tehnični urednik.
 
 ### Obdelava pravkar prispetega članka (glavni urednik)
 
-Pravkar oddani članki se nahajajo pod rubriko Unassigned. Na strani EDITOR HOME izberemo Unassigned.  Pojavi se nam seznam prispelih in trenutno nedodeljenih člankov.
+Pravkar oddani članki se nahajajo pod rubriko Unassigned. Na strani `EDITOR DASHBOARD` izberemo Unassigned.  Pojavi se nam seznam prispelih in trenutno nedodeljenih člankov.
 
-???
+![](slike/editor-unasigned-submissions.png)
+
+> *Zaradi varovanja osebnih podatkov v demonstraciji uporabljamo filter*
 
 S klikom na naslov članka začnemo z njegovim pregledom in obdelavo (glavni urednik).
 
-???
+![](slike/editor-view-submission.png)
 
 Pojavi se kartoteka članka. Na vrhu je možnih 5 izbir: 
     • SUMMARY (osnovni podatki o oddanem članku)
@@ -130,7 +130,7 @@ Za prejeti članek je naloga glavnega urednika, da članek bodisi zavrne, popros
 
 Na strani SUMMARY  v rubriki STATUS izberemo REJECT AND ARCHIVE SUBMISSION. 
 
-???
+??? reject (ustvari nov prispevek)
 
 Odpre se okno za pošiljanje emaila. V naprej pripravljen email lahko dopolnimo in pošljemo (gumb Send na dnu strani). TRUDIMO SE, DA POŠILJAMO VSE EMAILE PREKO APLIKACIJE, SAJ LE TAKO OHRANJAMO SLEDLJIVOST.
 
@@ -138,7 +138,7 @@ Odpre se okno za pošiljanje emaila. V naprej pripravljen email lahko dopolnimo 
 
 V kolikor je članek ustrezno oddan in primeren za revijo in recenzijo, glavni urednik določi urednika sekcije, ki bo poskrbel za izvedbo recenzij in podal končno odločitev glede objave članka. Glavni urednik izbere urednika preko strani SUMMARY, in sicer v rubriki EDITORS.
 
-???
+??? add section editor
 
 Tu lahko izbere:
     • ADD SECTION EDITOR (dodelitev uredniku sekcije)
@@ -149,15 +149,15 @@ Tu lahko izbere:
 
 Po pritisku na izbiro ADD SECTION EDITOR lahko izberemo urednika sekcije, ki mu dodelimo članek v obdelavo. Na seznamu najdemo ustreznega urednika sekcije in izberemo ASSIGN.
 
-???
+??? section editor selection list
 
 ## Delo urednika sekcije
 
-Urednik sekcije nastopa v vlogi Section Editor (USER HOME, izbor Section Editor)
+Urednik sekcije nastopa v vlogi Section Editor (`USER DASHBOARD`, izbor Section Editor)
 
 Uvodna stran v vlogi Section Editor vsebuje tri kategorije člankov glede na status (IN REVIEW,  IN EDITING ter ARCHIVES), pri čemer imamo pri prvih dveh kategorijah ustrezen mavrični seznam glede na status trenutnega članka (stopnja izvedbe recenzije, stopnja tehnične obdelave). Urednik sekcije tipično operira zgolj s članki v statusu IN REVIEW.
 
-???
+??? submissions in review list
 
 Tabela v mavričnem seznamu nam v ustreznih stolpcih kaže stanje dela recenzentov:
     • ASK - datum prošnje za vsakega zaprošenega recenzenta
@@ -363,7 +363,7 @@ V vlogi Editor lahko odpiramo in upravljami z "revijami", ki se imenujejo "Issue
 
 ???
 
-Do možnosti za urejanje Issue-ov pridemo tako, da v osnovnem meniju USER HOME izberemo vlogo Editor, ki nas popelje na stran EDITOR HOME. Na dnu strani je odsek za uporavljanje Issue-ov. 
+Do možnosti za urejanje Issue-ov pridemo tako, da v osnovnem meniju `USER DASHBOARD` izberemo vlogo Editor, ki nas popelje na stran `EDITOR DASHBOARD`. Na dnu strani je odsek za uporavljanje Issue-ov. 
 
 ???
 

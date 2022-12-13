@@ -79,21 +79,23 @@ V okviru publikacije Acta Chimica Slovenica ima vsak uporabnik določene vloge. 
 
 V splošnem oknu z vlogami imamo tudi rubriko za upravljanje svojega dostopa (MY ACCOUNT) ter izbiro Change My Password, ki omogoča spremembo gesla.
 
-???
+![](slike/change-password.png)
 
 Odpre se okno, v katerega navedemo staro geslo in dvakrat novo geslo ter pritisnemo Save.
 
 ### Pozabljeno geslo
 
-... se ne moremo prijaviti. Lahko pa na vrhu strani v menijski vrstici izberemo izbiro LOGIN, ter uporabimo povezavo Forgot your password? Uporabniški dostopi so vezani na email naslove. Odpre se stran na kateri vnesete svoj email, ki pripada dostopu ter pritisnete gumb Reset Password. Dobili boste email za ponastavitev gesla, kjer sledite navodilom.
+Pozabili smo geslo in ne moremo se prijaviti. Lahko pa na vrhu strani v menijski vrstici izberemo izbiro LOGIN, ter uporabimo povezavo Forgot your password? Uporabniški dostopi so vezani na email naslove. Odpre se stran na kateri vnesete svoj email, ki pripada dostopu ter pritisnete gumb Reset Password. Dobili boste email za ponastavitev gesla, kjer sledite navodilom.
  
-???
+![](slike/reset-password.png)
 
 ## Uredništvo (glavni urednik)
 
 Glavni urednik ima vlogo Editor. Sekcijski uredniki imajo vlogo Section Editor. V tem razdelku govorimo le o vlogi glavnega urednika. V oknu za vloge izberemo vlogo Editor.
 
-???
+![](slike/editor-dashboard-submissions.png)
+
+![](slike/editor-dashboard-issues.png)
 
 Odpre se stran EDITOR HOME. V zgornjem delu strani so seznami člankov v obdelavi glede na njihov status:
     • Unassigned - pravkar oddani, glavni urednik jih mora pregledati in bodisi zavrniti ali predati urednikom sekcij

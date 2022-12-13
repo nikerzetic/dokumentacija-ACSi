@@ -3,6 +3,8 @@
 - [Navodila za uporabo sistema OJS s strani urednikov - Acta Chimica Slovenica](#navodila-za-uporabo-sistema-ojs-s-strani-urednikov---acta-chimica-slovenica)
   - [Splošne opombe](#splošne-opombe)
   - [Prijava v sistem](#prijava-v-sistem)
+  - [Oddaja članka (avtor)](#oddaja-članka-avtor)
+  - [Splošno okno z vlogami](#splošno-okno-z-vlogami)
 
 
 ## Splošne opombe
@@ -31,7 +33,7 @@ Obiščite povezavo:
 
 V desnem zgornjem kotu se nahaja okno za prijavo.
 
-![](https://github.com/nikerzetic/dokumentacija-ACSi/blob/05995973c5f7e4224e3eaccd22e3331ce67985ba/slike/login.png)
+![](slike/login.png)
 
 Vnesite uporabniško ime in geslo ter pritisnite `Login`.
 
